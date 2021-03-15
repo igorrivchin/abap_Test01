@@ -1,0 +1,4 @@
+general:
+     gitSshKeyCredentialsId: 'igor.rivchin@gmail.com'
+     verbose: true
+     productiveBranch: develop
